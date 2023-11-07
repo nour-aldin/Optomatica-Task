@@ -18,11 +18,13 @@ $ cd client
 $ npm install
 ```
 
+4. **_Navigate to repository directory_**
+
 ```sh
 $ cd server
 ```
 
-4. **_Install dependencies_**
+5. **_Install dependencies_**
 
 ```sh
 $ npm install
